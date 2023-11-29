@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               : #&twitter
 facebook:
   username               :
   app_id                 :
@@ -83,7 +83,7 @@ author:
   name             : "Leah L. Weber"
   avatar           : "profile.png"
   bio              : "computational biology PhD student with a focus in tumor evolution"
-  location         : "University of Illinois Urbana-Champaign"
+  location         : "Urbana-Champaign"
   employer         :
   pubmed           : 
   googlescholar    : 
