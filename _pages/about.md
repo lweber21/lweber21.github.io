@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-![illustration](/images/home_page_photo.jpg){: .align-right width="125px"}
+![illustration](/images/home_page_photo.jpg){: .align-right width="200px"}
 I am currently a computer science PhD student at the University of Illinois Urbana-Champaign with a focus in computational biology. My research interests are the development of algorithms for:  
 
  - cancer genomics
