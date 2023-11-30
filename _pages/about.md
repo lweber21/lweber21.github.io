@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-![illustration](/images/home_page_photo.jpg){: .align-right, width="300px"}
+![illustration](/images/home_page_photo.jpg){: .align-right width="300px"}
 
 I am currently a computer science PhD student at the University of Illinois Urbana-Champaign with a focus in computational biology. My research interests are the development of computational methods for cancer genomics, phylogenetics, and immunology. I apply mathematical and computational techniques to model and infer the evolutionary processes of cancer or immune responses, particularly from error-prone next-generation single-cell sequencing data. 
 
